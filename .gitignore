@@ -1,0 +1,17 @@
+# API keys and secrets
+config.js
+
+# Netlify
+.netlify/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
